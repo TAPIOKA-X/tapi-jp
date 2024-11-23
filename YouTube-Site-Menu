@@ -1,0 +1,21 @@
+<html>
+
+<head>
+<mate charset= "Shift_JIS">
+<title>YouTubeサイト リンク集</title>
+</head>
+
+<boby>
+<h1>ようこそ !! </h1>
+<p>--戻る--</p>
+<a href= "index.html">ホームに戻る..</a>
+<a href= "Menu.html">メニューへ戻る..</a>
+<p>--リンク集--</p>
+<p>ダウンローダー系</a>
+<a href= "https://ja.savefrom.net/">Savefrom.net</a> <br>
+<a href= "https://video.link/">Video.Link</a> <br>
+<p>YouTube代替サイト</p>
+
+</boby>
+
+</html>
